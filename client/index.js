@@ -7,7 +7,7 @@ import ReactDOM from 'react-dom';
 // launch the app
 ReactDOM.render(
       <div>
-        test
+        I am testing branches!
       </div>
   ,
   document.getElementById('root'),
